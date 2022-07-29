@@ -1,16 +1,27 @@
-# capi
+<div align="center">
+<img src="assets/images/launch_image.png" width="200px" height="200px" />
+</div>
 
-A new Flutter project.
+# CAPI
 
-## Getting Started
+Mobile-Based Comprehensive Career
+Development Tool To Help You Pick
+The Right Place For You.
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+Quiz Example            |  Result Screen
+:-------------------------:|:-------------------------:
+![](Screenshots/1.jpg)  |  ![](Screenshots/2.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Track Info           |  Profile Page
+:-------------------------:|:-------------------------:
+![](Screenshots/6.jpg)  |  ![](Screenshots/3.jpg)
+
+
+Roadmap          |  Drawer
+:-------------------------:|:-------------------------:
+![](Screenshots/4.jpg)  |  ![](Screenshots/5.jpg)
+
+
