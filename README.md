@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/images/launch_image.png" width="200px" height="200px" />
+<img src="assets/images/launch_image.png" width="700px" height="700px" />
 </div>
 
 # CAPI
