@@ -12,7 +12,18 @@ The Right Place For You.
 
 
 
-![alt-text-1](Screenshots/1.jpg "Quiz Example") ![alt-text-2](Screenshots/2.jpg "Result Screen")
+<table>
+  <tr>
+    <td>Quiz Example</td>
+     <td>Result Screen</td>
+     <td>Profile Page</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/1.jpg" width=270 height=480></td>
+    <td><img src="Screenshots/2.jpg" width=270 height=480></td>
+    <td><img src="Screenshots/3.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
