@@ -10,18 +10,30 @@ The Right Place For You.
 
 # Screenshots
 
-Quiz Example            |  Result Screen
-:-------------------------:|:-------------------------:
-![](Screenshots/1.jpg)  |  ![](Screenshots/2.jpg)
 
 
-Track Info           |  Profile Page
-:-------------------------:|:-------------------------:
-![](Screenshots/6.jpg)  |  ![](Screenshots/3.jpg)
+![alt-text-1](Screenshots/1.jpg "Quiz Example") ![alt-text-2](Screenshots/2.jpg "Result Screen")
 
 
-Roadmap          |  Drawer
-:-------------------------:|:-------------------------:
-![](Screenshots/4.jpg)  |  ![](Screenshots/5.jpg)
+
+[comment]: <> (Quiz Example               |  Result Screen)
+
+[comment]: <> (:-------------------------:|:-------------------------:)
+
+[comment]: <> (![]&#40;Screenshots/1.jpg&#41;     |  ![]&#40;Screenshots/2.jpg&#41;)
+
+
+[comment]: <> (Track Info                 |  Profile Page)
+
+[comment]: <> (:-------------------------:|:-------------------------:)
+
+[comment]: <> (![]&#40;Screenshots/6.jpg&#41;     |  ![]&#40;Screenshots/3.jpg&#41;)
+
+
+[comment]: <> (Roadmap                    |  Drawer)
+
+[comment]: <> (:-------------------------:|:-------------------------:)
+
+[comment]: <> (![]&#40;Screenshots/4.jpg&#41;     |  ![]&#40;Screenshots/5.jpg&#41;)
 
 
