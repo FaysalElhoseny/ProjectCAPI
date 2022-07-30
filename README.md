@@ -12,30 +12,15 @@ The Right Place For You.
 
 
 
-<table>
-  <tr>
-    <td>Quiz Example</td>
-     <td>Result Screen</td>
-     <td>Track Info</td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/1.jpg" width=270 height=550></td>
-    <td><img src="Screenshots/2.jpg" width=270 height=550></td>
-    <td><img src="Screenshots/6.jpg" width=270 height=550></td>
-  </tr>
- </table>
 
-<table>
-  <tr>
-    <td>Profile Page</td>
-     <td>Roadmap</td>
-     <td>Drawer</td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/3.jpg" width=270 height=550></td>
-    <td><img src="Screenshots/4.jpg" width=270 height=550></td>
-    <td><img src="Screenshots/5.jpg" width=270 height=550></td>
-  </tr>
- </table>
+Quiz Example            |  Result Screen
+:-------------------------:|:-------------------------:
+![](Screenshots/1.jpg)  |  ![](Screenshots/2.jpg)
 
+Track Info          |  Profile Page
+:-------------------------:|:-------------------------:
+![](Screenshots/6.jpg)  |  ![](Screenshots/3.jpg)
 
+Roadmap          |  Drawer
+:-------------------------:|:-------------------------:
+![](Screenshots/4.jpg)  |  ![](Screenshots/5.jpg)
