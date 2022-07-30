@@ -16,35 +16,26 @@ The Right Place For You.
   <tr>
     <td>Quiz Example</td>
      <td>Result Screen</td>
-     <td>Profile Page</td>
+     <td>Track Info</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/1.jpg" width=270 height=480></td>
-    <td><img src="Screenshots/2.jpg" width=270 height=480></td>
-    <td><img src="Screenshots/3.jpg" width=270 height=480></td>
+    <td><img src="Screenshots/1.jpg" width=270 height=585></td>
+    <td><img src="Screenshots/2.jpg" width=270 height=585></td>
+    <td><img src="Screenshots/6.jpg" width=270 height=585></td>
   </tr>
  </table>
 
-
-
-[comment]: <> (Quiz Example               |  Result Screen)
-
-[comment]: <> (:-------------------------:|:-------------------------:)
-
-[comment]: <> (![]&#40;Screenshots/1.jpg&#41;     |  ![]&#40;Screenshots/2.jpg&#41;)
-
-
-[comment]: <> (Track Info                 |  Profile Page)
-
-[comment]: <> (:-------------------------:|:-------------------------:)
-
-[comment]: <> (![]&#40;Screenshots/6.jpg&#41;     |  ![]&#40;Screenshots/3.jpg&#41;)
-
-
-[comment]: <> (Roadmap                    |  Drawer)
-
-[comment]: <> (:-------------------------:|:-------------------------:)
-
-[comment]: <> (![]&#40;Screenshots/4.jpg&#41;     |  ![]&#40;Screenshots/5.jpg&#41;)
+<table>
+  <tr>
+    <td>Profile Page</td>
+     <td>Roadmap</td>
+     <td>Drawer</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/3.jpg" width=270 height=585></td>
+    <td><img src="Screenshots/4.jpg" width=270 height=585></td>
+    <td><img src="Screenshots/5.jpg" width=270 height=585></td>
+  </tr>
+ </table>
 
 
